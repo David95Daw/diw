@@ -1,0 +1,38 @@
+body{
+  background-color:grey;
+  color:white;
+}
+.primero{
+  background-color:#04ACEB;
+  width:50%;
+  margin:auto;
+}
+.primero > p{
+    text-align:center;
+}
+.primero > h3{
+  padding: 15px;
+}
+.info > h1{
+  text-align:center;
+}
+.primero > img{
+  width:25px;
+  position:relative;
+  left:700px;
+  top:-30px;
+    border: 2px solid black;
+  border-radius: 50px;
+}
+.info > img{
+  width:100px;
+  display:block;
+  margin:auto;
+  border: 5px solid;
+  border-radius: 100px;
+}
+.abajo{
+  background-color:purple;
+  margin:auto;
+  height:10px;
+}
